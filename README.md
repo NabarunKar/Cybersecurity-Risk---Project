@@ -2,8 +2,6 @@
 
 A web-based visualization tool for exploring and comparing data breach notification statutes across the United States.
 
-**Live Deployment:** https://your-project-name.vercel.app
-
 ![Application Interface](screenshot.png)
 
 ## Project Overview
